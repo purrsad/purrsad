@@ -3,9 +3,11 @@
 <br/>
 
 
-I’m a CS grad at the California State University Long Beach. Big believer in hard work and a passionate software engineer with 3 years of professional experience. I began at Deloitte as an SDE Intern, enhancing user experience with frontend technologies. Transitioning to Software Engineer, I learned about reusable components and backend integration, fostering collaboration. As a Senior Software Engineer, I led and mentored, focusing on performance optimization. Engaging with Docker and Kubernetes projects provided insights into scalability and efficiency. My Deloitte journey was marked by learning, growth, and honing technical and leadership skills.
+As a passionate software engineer with a Master's in Computer Science, I thrive on turning complex challenges into elegant solutions. My journey spans from building AR applications to revolutionizing community platforms, always with an eye on user experience and cutting-edge technologies. I've led teams, mentored juniors, and consistently delivered results that exceed expectations.
 
-During my tenure as a Research Assistant at California State University Long Beach, I conducted in-depth research focusing on dynamic visualizations for enhanced decision-making in power systems monitoring by utilizing a conformal prediction framework. Leveraging Angular and D3.js, I explored methods to create visually compelling representations of complex data, aiming to improve situational awareness and decision support. This experience not only allowed me to deepen my technical expertise in web development and data visualization but also provided valuable insights into the practical application of these technologies in research-driven environments.
+My toolkit is diverse: from JavaScript and Python to cloud technologies and DevOps practices. I'm equally comfortable refactoring legacy systems as I am architecting new applications from the ground up. My experience across different domains - from fin-tech to education - has honed my ability to adapt quickly and deliver value in any environment.
+
+I'm driven by a desire to create impactful, scalable software that makes a difference. Whether it's optimizing performance, enhancing user interfaces, or streamlining processes, I approach each project with enthusiasm and a commitment to excellence. Let's connect and explore how we can build something amazing together!
 
 I have also done several projects in deep learning, Generative AI and various full-stack projects utilising frameworks like React, Angular and Flask.
 
