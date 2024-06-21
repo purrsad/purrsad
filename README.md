@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasad</h1>
-<h3 align="center">A passionate UX Engineer from Mumbai</h3>
+<h3 align="center">A passionate UX Engineer and Full Stack Developer</h3>
 <br/>
 
 
@@ -9,7 +9,7 @@ My toolkit is diverse: from JavaScript and Python to cloud technologies and DevO
 
 I'm driven by a desire to create impactful, scalable software that makes a difference. Whether it's optimizing performance, enhancing user interfaces, or streamlining processes, I approach each project with enthusiasm and a commitment to excellence. Let's connect and explore how we can build something amazing together!
 
-I have also done several projects in deep learning, Generative AI and various full-stack projects utilising frameworks like React, Angular and Flask.
+I have also done several projects in deep learning and various full-stack projects utilising frameworks like React, Angular, Java and Spring.
 
  
 - 🎓 Master's in Computer Science, California State University Long Beach
@@ -17,7 +17,7 @@ I have also done several projects in deep learning, Generative AI and various fu
 - 👯 I’m looking to collaborate on open source projects on Frontend Development and mentoring.
 - 💬 Ask me about tips for pursuing Masters in US, Frontend Development, engineering, and architecture design. 
 - 📫 Reach me at: [patil.prasad76@gmail.com](mailto:patil.prasad76@gmail.com) or LinkedIn email
-- ⚡ Hobbies: Photography, Bodybuilding, Films, Cook
+- ⚡ Hobbies: Photography, Bodybuilding, Films, Cooking
 
 
 <!--
