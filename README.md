@@ -32,10 +32,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
-	<img src="https://skillicons.dev/icons?i=react,angular,ts,js,css,html,bootstrap,nextjs,tailwind,redux,materialui,vite,d3,jquery,figma" />
-	<img src="https://skillicons.dev/icons?i=nodejs,java,django,spring,flask,dotnet,express,py,hibernate,prisma,jest,selenium" />
-	<img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel,supabase" />
+	<img src="https://skillicons.dev/icons?i=react,angular,ts,js,css,html,nextjs,tailwind,redux,materialui,vite,d3,figma" />
+	<img src="https://skillicons.dev/icons?i=nodejs,java,django,spring,py,hibernate,prisma,jest" />
+	<img src="https://skillicons.dev/icons?i=aws,firebase,vercel,supabase" />
 	<img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,githubactions,postman" />
-	<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,vscode,pycharm,eclipse" />
+	<img src="https://skillicons.dev/icons?i=mysql,vscode,eclipse" />
 	<br>
 </div>
